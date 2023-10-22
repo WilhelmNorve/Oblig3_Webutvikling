@@ -289,7 +289,7 @@ fieldset {
     }
 
   .image-container img {
-      width: 60%; 
+      width: 40%; 
       max-width: 100%;
       border-radius: 15px; 
   }
